@@ -3,10 +3,6 @@ import React from 'react';
 
 const fields = [
   {
-    path: 'Programmist',
-    text: 'Профессиональные заболеавния',
-  },
-  {
     path: 'pyhics',
     text: 'Сайты по физике',
   },
