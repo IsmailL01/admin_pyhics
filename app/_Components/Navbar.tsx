@@ -3,7 +3,7 @@ import React from 'react';
 
 const fields = [
   {
-    path: 'pyhics',
+    path: 'elegantPyhics',
     text: 'Сайты по физике',
   },
 ];
